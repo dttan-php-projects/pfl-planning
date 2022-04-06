@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>  
+    <item id="home" text="Home" imgdis="fa fa-home" img="fa fa-home"></item>
+
+    <item id="main_menu" text="Main Menu" imgdis="fas fa-bars" img="fas fa-bars">
+        <item id="production_record" text="Production Record" imgdis="fab fa-product-hunt" img="fab fa-product-hunt" />
+        <item id="order_list" text="Order List" imgdis="fas fa-list-ol" img="fas fa-list-ol" />
+        <item id="print" text="Print Page" imgdis="fas fa-print" img="fas fa-print" />
+        <item id="mark_machine" text="Mark Machine" imgdis="fas fa-bookmark" img="fas fa-bookmark" />
+    </item>
+
+    <item id="master_data" text="Master Item" imgdis="fa fa-database" img="fa fa-database"></item>
+    <item id="material" text="Upload Material" imgdis="fa fa-upload" img="fa fa-upload"></item>
+
+</menu>

@@ -1,0 +1,49 @@
+<rows profile='color'><head><columns><column  width='40' align='center' type='ed' hidden='false' sort='na' color=''><![CDATA[ID]]></column><column  width='70' align='center' type='ed' hidden='false' sort='na' color=''><![CDATA[ Machine]]></column><column  width='80' align='center' type='ed' hidden='false' sort='na' color=''><![CDATA[ Type]]></column><column  width='60' align='center' type='ed' hidden='false' sort='na' color=''><![CDATA[ Capacity]]></column><column  width='70' align='center' type='ed' hidden='false' sort='na' color=''><![CDATA[ Use]]></column><column  width='60' align='undefined' type='ed' hidden='false' sort='na' color=''><![CDATA[ Remain]]></column></columns></head>
+<row><cell><![CDATA[1]]></cell><cell><![CDATA[P01]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[400]]></cell><cell><![CDATA[398.95]]></cell><cell><![CDATA[1.0500000000001]]></cell></row>
+<row><cell><![CDATA[2]]></cell><cell><![CDATA[P02]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1259.39]]></cell><cell><![CDATA[0.61000000000001]]></cell></row>
+<row><cell><![CDATA[3]]></cell><cell><![CDATA[P03]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1258.14]]></cell><cell><![CDATA[1.86]]></cell></row>
+<row><cell><![CDATA[4]]></cell><cell><![CDATA[P04]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1256.35]]></cell><cell><![CDATA[3.6499999999999]]></cell></row>
+<row><cell><![CDATA[5]]></cell><cell><![CDATA[P05]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1257.01]]></cell><cell><![CDATA[2.9900000000002]]></cell></row>
+<row><cell><![CDATA[6]]></cell><cell><![CDATA[P06]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1250.04]]></cell><cell><![CDATA[9.96]]></cell></row>
+<row><cell><![CDATA[7]]></cell><cell><![CDATA[P07]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1246.03]]></cell><cell><![CDATA[13.97]]></cell></row>
+<row><cell><![CDATA[8]]></cell><cell><![CDATA[P08]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1248.24]]></cell><cell><![CDATA[11.76]]></cell></row>
+<row><cell><![CDATA[9]]></cell><cell><![CDATA[P09]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1256.12]]></cell><cell><![CDATA[3.88]]></cell></row>
+<row><cell><![CDATA[10]]></cell><cell><![CDATA[P10]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1259.42]]></cell><cell><![CDATA[0.58000000000018]]></cell></row>
+<row><cell><![CDATA[11]]></cell><cell><![CDATA[P11]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1248.68]]></cell><cell><![CDATA[11.32]]></cell></row>
+<row><cell><![CDATA[12]]></cell><cell><![CDATA[P12]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[511.63]]></cell><cell><![CDATA[748.37]]></cell></row>
+<row><cell><![CDATA[13]]></cell><cell><![CDATA[P13]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[14]]></cell><cell><![CDATA[P14]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[15]]></cell><cell><![CDATA[P16]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[16]]></cell><cell><![CDATA[P18]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[17]]></cell><cell><![CDATA[P19]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[18]]></cell><cell><![CDATA[P20]]></cell><cell><![CDATA[Focus]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[19]]></cell><cell><![CDATA[P26]]></cell><cell><![CDATA[LX]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[1019.1]]></cell><cell><![CDATA[240.9]]></cell></row>
+<row><cell><![CDATA[20]]></cell><cell><![CDATA[P27]]></cell><cell><![CDATA[LX]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[330.52]]></cell><cell><![CDATA[929.48]]></cell></row>
+<row><cell><![CDATA[21]]></cell><cell><![CDATA[P28]]></cell><cell><![CDATA[LX]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[22]]></cell><cell><![CDATA[P29]]></cell><cell><![CDATA[LX]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[23]]></cell><cell><![CDATA[P30]]></cell><cell><![CDATA[LX]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[24]]></cell><cell><![CDATA[P32]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[25]]></cell><cell><![CDATA[P33]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[26]]></cell><cell><![CDATA[P34]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[27]]></cell><cell><![CDATA[P35]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[28]]></cell><cell><![CDATA[P36]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[29]]></cell><cell><![CDATA[P37]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[30]]></cell><cell><![CDATA[P38]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[31]]></cell><cell><![CDATA[P39]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[32]]></cell><cell><![CDATA[P40]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[33]]></cell><cell><![CDATA[P41]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[34]]></cell><cell><![CDATA[P42]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[35]]></cell><cell><![CDATA[P43]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[36]]></cell><cell><![CDATA[P44]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[37]]></cell><cell><![CDATA[P45]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[38]]></cell><cell><![CDATA[P46]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[39]]></cell><cell><![CDATA[P47]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[40]]></cell><cell><![CDATA[P48]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[41]]></cell><cell><![CDATA[P49]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[42]]></cell><cell><![CDATA[P50]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[43]]></cell><cell><![CDATA[P51]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[44]]></cell><cell><![CDATA[P52]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[45]]></cell><cell><![CDATA[P53]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[46]]></cell><cell><![CDATA[P54]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[47]]></cell><cell><![CDATA[P55]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row>
+<row><cell><![CDATA[48]]></cell><cell><![CDATA[P56]]></cell><cell><![CDATA[Gold Fai]]></cell><cell><![CDATA[1260]]></cell><cell><![CDATA[ ]]></cell><cell><![CDATA[1260]]></cell></row></rows>
